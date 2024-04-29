@@ -51,3 +51,6 @@ malayalam.
 Input : max
 Output : No
 Reverse of max is not max. 
+
+
+Author - Raghvendra
